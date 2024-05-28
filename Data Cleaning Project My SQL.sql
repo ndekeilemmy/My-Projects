@@ -2,12 +2,6 @@ SELECT *
 FROM layoffs_raw;
 
 
--- Remove duplicates
--- Stanadardize the data
--- Null values or Blank values
--- Remove any columns
-
-
 -- Removing duplicates
 
 
